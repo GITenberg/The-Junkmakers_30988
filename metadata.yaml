@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '24789'
     url: http://www.gutenberg.org/2009/agents/24789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30988#The-Junkmakers
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
